@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 3,
   "name": "XC Recording options",
   "version": "0.1.0",
   "description": "Adds dropdown recorder and mic options to a XC upload page",
