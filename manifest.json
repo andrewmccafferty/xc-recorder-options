@@ -1,0 +1,16 @@
+{
+  "manifest_version": 1,
+  "name": "XC Recording options",
+  "version": "0.1.0",
+  "description": "Adds dropdown recorder and mic options to a XC upload page",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://xeno-canto.org/upload/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
